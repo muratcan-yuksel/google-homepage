@@ -1,0 +1,2 @@
+If I understood correctly, for this exercise/project, I'll deconstruct the google search page and rebuild it. It will be the second website I've ever built, and it will be the first one I'll build without following someone's steps directly.
+I hope to have a better understanding of how a webpage layout works, how I can create something, and also I hope to feel comfortable with git.
